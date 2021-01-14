@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/registration-form-formik-app/static/css/main.9295c808.chunk.css",
+    "main.js": "/registration-form-formik-app/static/js/main.df7754c1.chunk.js",
+    "main.js.map": "/registration-form-formik-app/static/js/main.df7754c1.chunk.js.map",
+    "runtime-main.js": "/registration-form-formik-app/static/js/runtime-main.a3060ab8.js",
+    "runtime-main.js.map": "/registration-form-formik-app/static/js/runtime-main.a3060ab8.js.map",
+    "static/js/2.61d0cd7c.chunk.js": "/registration-form-formik-app/static/js/2.61d0cd7c.chunk.js",
+    "static/js/2.61d0cd7c.chunk.js.map": "/registration-form-formik-app/static/js/2.61d0cd7c.chunk.js.map",
+    "static/js/3.d1678644.chunk.js": "/registration-form-formik-app/static/js/3.d1678644.chunk.js",
+    "static/js/3.d1678644.chunk.js.map": "/registration-form-formik-app/static/js/3.d1678644.chunk.js.map",
+    "index.html": "/registration-form-formik-app/index.html",
+    "static/css/main.9295c808.chunk.css.map": "/registration-form-formik-app/static/css/main.9295c808.chunk.css.map",
+    "static/js/2.61d0cd7c.chunk.js.LICENSE.txt": "/registration-form-formik-app/static/js/2.61d0cd7c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3060ab8.js",
+    "static/js/2.61d0cd7c.chunk.js",
+    "static/css/main.9295c808.chunk.css",
+    "static/js/main.df7754c1.chunk.js"
+  ]
+}
